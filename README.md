@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @alkodrimuhfaris, you can call me Kodri, I am a fullstack web developer
+- 👀 I’m interested in creating recycle component on reactjs and creating business logic on backend
+- 🌱 I’m currently learning Next.Js, laravel, and java!
+- 📫 You can reach me on :email: farisalkodri@gmail.com
